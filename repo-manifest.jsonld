@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/ulid/javascript/commit/11c2067821ee19e4dc787ca4e0125a025485edc6",
       "git:hexsha": "11c2067821ee19e4dc787ca4e0125a025485edc6",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v3.0.2"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v3.0.2",
+      "repolex:parsedAt": "2026-11-09T15:13:53.743301+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ulid/javascript/commit/324772c6c5fd339c5eb9e56781ba8af93c434fcb",
